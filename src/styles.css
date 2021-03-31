@@ -1,0 +1,47 @@
+/* 'Styles.Css' Emma Nunnink 3/27/2021 */
+body {background-color: #ECECEC; background-repeat: no-repeat;
+	color: #91A2A7; font-family: 'Times New Roman', 'Helvetica', 'sans-serif';}
+
+h1 {background-color: #B1A296; background-image: url(pictures/printvector.jpg); background-repeat: repeat;
+background-position: right; color: #607077; margin-bottom: 0; text-indent: .5em; line-height: 200%; font-size: 3em;
+	font-family: 'Arial', 'Times New Roman', 'serif'; text-shadow: 2px 2px 2px #333333}
+
+nav {background-color: #8D9B6A; font-weight: bold; text-indent: 1em;}
+
+nav a {text-decoration: none;}
+
+h2 {color: #B1A296; font-family: 'Arial', 'Times New Roman', 'serif';}
+
+h3 {color: #000033; font-family: 'Arial', 'Times New Roman', 'serif';}
+
+dt {color: #002171;}
+
+
+#contact {font-size: 90%}
+#wrapper {background-color: #FFFFFF; margin-left: auto; margin-right: auto; width: 80%; min-width: 960px; max-width: 2048px; box-shadow: 3px 3px 3px #333333}
+.prof {font-weight: bold; color: #607077}
+.unordered {padding-left: 5%; width: 100%}
+.emma {padding-top: 2%; padding-bottom: 2%; padding-left: 40%; padding-right: 50%; width: 20%; height: auto;}
+.bio {padding-right: 15%; padding-left: 15%; font-size: 1.3em; font-weight: bold; text-align: center;}
+.gallery {padding-right: 15%; padding-left: 25%;}
+
+
+footer {font-family: 'Georgia', 'Times New Roman', 'serif'; font-size: 75%; color: #8D9B6A;
+text-align: center; font-style: italic; margin-top: 10px; margin-bottom: 10px; padding-bottom: 3%}
+
+
+a:link {color: #767A65; background-color: transparent; text-decoration: underline;}
+a:visited {color: #DAB692; background-color: transparent; text-decoration: none;}
+a:hover {color: #B1A296; background-color: transparent; text-decoration: underline;}
+
+
+.container {padding: 20px 40px 40px; max-width: 100%; display: flex;}
+.container__image {margin: 20px 30px 0 0; height: 35%; width: 35%; -o-object-fit: contain; object-fit: contain; align-self: flex-start;}
+.container__text {flex: 1 1 auto;}
+
+img {width: 30%; height: auto; display: block; margin-left: auto; margin-right: auto; float: left;}
+
+
+
+
+
